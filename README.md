@@ -86,22 +86,22 @@ The NFT system consists of 4 main attributes, and each profile NFT includes a ra
 
 1. **Face (Deposit)**: Represents deposit activities
 
-   - Includes variations like Droopy (Aave V3), Wide-Eyed (Artemis), etc.
+   - Includes variations like Bubbly (OolongSwap), Slick (SushiSwap), Mellow (Uniswap V3)
 
-2. **Gloves (Bridge)**: Represents bridge activities
+2. **Straw (Bridge)**: Represents bridge activities
 
-   - Features Pink (Stargate V2), Yellow (Symbiosis)
+   - Features Yellow (Boba LightBridge), Lavender (Symbiosis)
 
-3. **Shoes (Swap)**: Represents swap activities
+3. **Boba (Swap)**: Represents swap activities
 
-   - Includes variations for different tokens (METIS, m.USDT, m.USDC, etc.)
+   - Includes variations for different tokens (ETH, USDC, USDT, BOBA)
 
 4. **Special (Optional)**: Custom attributes
 
 **Background**: Automatically and randomly selected from:
 
 - Common backgrounds: Lavender, Mint, Pink, Beige, etc.
-- Rare backgrounds (Chain specific): Spring, Twilight, Rainbow
+- Rare backgrounds (Chain specific): Blue Starburst, Pastel Glow
 
 Each item has a unique ID calculated by: `256 * itemId + attrId`
 
@@ -113,16 +113,16 @@ Here's an example of a Profile NFT:
 
 This profile represents a user who has:
 
-- Used Artemis protocol for deposits (Wide-Eyed face, ID: 512)
-- Performed cross-chain transactions via Symbiosis bridge (Yellow gloves, ID: 257)
-- Traded METIS tokens (Sky shoes, ID: 2)
-- Randomly received the Twilight background
+- Used OolongSwap for deposits (Bubbly face, ID: 256)
+- Performed cross-chain transactions via Boba LightBridge (Yellow straw, ID: 1)
+- Traded BOBA tokens (Lime boba, ID: 770)
+- Randomly received the Pastel Glow background
 
 The combination of these attributes tells the story of the user's DeFi activities on Boba network. Each attribute is earned through specific activities:
 
-- **Face**: Earned by depositing in Artemis protocol
-- **Gloves**: Earned by using Symbiosis bridge
-- **Shoes**: Earned by trading METIS tokens
+- **Face**: Earned by depositing in OolongSwap protocol
+- **Straw**: Earned by using Boba LightBridge bridge
+- **Boba**: Earned by trading BOBA token
 - **Background**: Randomly assigned during profile creation
 
 For detailed item images and descriptions, see [Item Details](./Metis%20Profile%20NFT%20Description.md).
