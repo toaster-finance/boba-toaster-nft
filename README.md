@@ -1,7 +1,8 @@
 # Boba Profile NFT
 
 Welcome to the Boba Profile NFT project! This project is designed to manage and interact with profile NFTs for the Toaster Finance platform on Boba Network.  
-![Screenshot 2025-01-02 at 9 25 42 PM](https://github.com/user-attachments/assets/6266cb56-291a-49f1-9161-985e33434fb3)
+![image](https://github.com/user-attachments/assets/e02157ef-bb23-4270-81aa-c5d6df648651)
+
 
 # Deployed Contracts
 
@@ -29,7 +30,7 @@ Welcome to the Boba Profile NFT project! This project is designed to manage and 
 
 ## Introduction
 
-Toaster Items Contract is a collectible NFT system that allows users to create, manage, and customize their profile NFTs on the Toaster Finance platform. Each NFT represents a unique user profile that can be customized with various attributes based on their DeFi activities on Metis.
+Toaster Items Contract is a collectible NFT system that allows users to create, manage, and customize their profile NFTs on the Toaster Finance platform. Each NFT represents a unique user profile that can be customized with various attributes based on their DeFi activities on Boba.
 
 ## System Architecture
 
@@ -108,8 +109,8 @@ Each item has a unique ID calculated by: `256 * itemId + attrId`
 ## Sample Profile NFT
 
 Here's an example of a Profile NFT:
+![image](https://github.com/user-attachments/assets/f793642b-2175-4d43-914c-761fc7c21630)
 
-![Sample Profile NFT](./sample.png)
 
 This profile represents a user who has:
 
@@ -125,7 +126,7 @@ The combination of these attributes tells the story of the user's DeFi activitie
 - **Boba**: Earned by trading BOBA token
 - **Background**: Randomly assigned during profile creation
 
-For detailed item images and descriptions, see [Item Details](./Metis%20Profile%20NFT%20Description.md).
+For detailed item images and descriptions, see [Item Details](./Boba%20Profile%20NFT%20Description.md).
 
 ## Installation
 
