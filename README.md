@@ -7,11 +7,11 @@ Welcome to the Boba Profile NFT project! This project is designed to manage and 
 
 ### Toaster Profiles
 
-0x7272C28fEf7903704B9665530eb30d7c797Ff86d [View on Explorer](https://blockexplorer.boba.network/address/0x7272C28fEf7903704B9665530eb30d7c797Ff86d?tab=contract)
+0x7272C28fEf7903704B9665530eb30d7c797Ff86d [View on Explorer](https://bobascan.com/address/0x7272C28fEf7903704B9665530eb30d7c797Ff86d/contract/288/code)
 
 ### Toaster Items
 
-0x642C2c5BF941D5eb93C4935ee84e82A37428a27d [View on Explorer](https://blockexplorer.boba.network/address/0x642C2c5BF941D5eb93C4935ee84e82A37428a27d?tab=contract)
+0x642C2c5BF941D5eb93C4935ee84e82A37428a27d [View on Explorer](https://blockexplorer.boba.network/address/0x642C2c5BF941D5eb93C4935ee84e82A37428a27d/contract/288/code)
 
 ## Table of Contents
 
