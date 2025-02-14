@@ -108,25 +108,9 @@ Each item has a unique ID calculated by: `256 * itemId + attrId`
 
 ## Sample Profile NFT
 
-Here's an example of a Profile NFT:
+Here's an example of a Profile NFT:  
 ![image](https://github.com/user-attachments/assets/f793642b-2175-4d43-914c-761fc7c21630)
 
-
-This profile represents a user who has:
-
-- Used OolongSwap for deposits (Bubbly face, ID: 256)
-- Performed cross-chain transactions via Boba LightBridge (Yellow straw, ID: 1)
-- Traded BOBA tokens (Lime boba, ID: 770)
-- Randomly received the Pastel Glow background
-
-The combination of these attributes tells the story of the user's DeFi activities on Boba network. Each attribute is earned through specific activities:
-
-- **Face**: Earned by depositing in OolongSwap protocol
-- **Straw**: Earned by using Boba LightBridge bridge
-- **Boba**: Earned by trading BOBA token
-- **Background**: Randomly assigned during profile creation
-
-For detailed item images and descriptions, see [Item Details](./Boba%20Profile%20NFT%20Description.md).
 
 ## Installation
 
